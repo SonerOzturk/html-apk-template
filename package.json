@@ -1,8 +1,8 @@
 {
-  "name": "html-oyun-sablonu",
+  "name": "html-apk-template",
   "version": "1.0.0",
   "private": true,
-  "description": "HTML oyunlari Android APK'ya cevirme sablonu (Capacitor + GitHub Actions)",
+  "description": "HTML sayfaları Android APK'ya cevirme sablonu (Capacitor + GitHub Actions)",
   "scripts": {
     "cap:add": "cap add android",
     "cap:sync": "cap sync android",
