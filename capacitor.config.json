@@ -1,6 +1,6 @@
 {
   "appId": "com.seninadin.oyun",
-  "appName": "Benim Oyunum",
+  "appName": "Benim Uygulamam",
   "webDir": "www",
   "android": {
     "allowMixedContent": false
