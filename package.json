@@ -1,0 +1,18 @@
+{
+  "name": "html-oyun-sablonu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTML oyunlari Android APK'ya cevirme sablonu (Capacitor + GitHub Actions)",
+  "scripts": {
+    "cap:add": "cap add android",
+    "cap:sync": "cap sync android",
+    "apk": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0"
+  }
+}
